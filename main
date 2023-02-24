@@ -1,0 +1,4 @@
+const randomNum = Math.random(); // случайное число в диапазоне от 0 до 1
+const randomInt = getRandomInt(1, 10); // случайное целое число от 1 до 10
+console.log(randomNum);
+console.log(randomInt);
